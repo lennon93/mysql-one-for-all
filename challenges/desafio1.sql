@@ -73,7 +73,7 @@ VALUES
   ('Sandi Metz',58,'2018-04-29',4),
   ('Paulo Freire',19,'2018-02-14',2),
   ('Bell Hooks',26,'2018-01-05',2),
-  ('christopher Alexander',85,'2019-06-05',3),
+  ('Christopher Alexander',85,'2019-06-05',3),
   ('Judith Butler',45,'2020-05-13',3),
   ('Jorge Amado',58,'2017-02-17',3);
 
